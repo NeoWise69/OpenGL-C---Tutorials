@@ -29,7 +29,6 @@ out vec4 fs_color;
 //Uniforms
 uniform Material material;
 uniform PointLight pointLight;
-uniform vec3 lightPos0;
 uniform vec3 cameraPos;
 
 //Functions
